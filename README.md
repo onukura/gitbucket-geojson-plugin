@@ -8,7 +8,6 @@ A GitBucket plugin for rendering GeoJSON file.
 
 ![screenshot](https://github.com/onukura/gitbucket-geojson-plugin/blob/assets/screenshot.png?raw=true)
 
-
 ## Install
 
 1. Download *.jar from Releases.
