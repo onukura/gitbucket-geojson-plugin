@@ -39,4 +39,4 @@ You can check if your GeoJSON file is valid on [GeoJSONLint](https://geojsonlint
 
 Plugin version|GitBucket version
 :---|:---
-1.0.0 |4.32.x -
+1.0.x |4.32.x -
