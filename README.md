@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/onukura/gitbucket-geojson-plugin.svg?branch=master)](https://travis-ci.org/onukura/gitbucket-geojson-plugin)
 
-A GitBucket plugin for rendering GeoJSON file.
+A GitBucket plugin for rendering GeoJSON file.  
 Based on [Leaflet.js](https://leafletjs.com/).
 
 ## Screenshot
